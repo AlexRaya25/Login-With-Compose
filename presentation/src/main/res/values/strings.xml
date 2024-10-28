@@ -1,0 +1,38 @@
+<resources>
+    <!--Login Screen-->
+    <string name="app_name">Login With Compose</string>
+    <string name="login_title">Login</string>
+    <string name="user_email">User or Email</string>
+    <string name="forgot_password">You forgot the password?</string>
+    <string name="no_account_register">You don\'t have an account? Register</string>
+    <string name="password">Password</string>
+    <string name="error_empty_fields">Please, complete all fields</string>
+    <string name="or">OR</string>
+    <string name="error">Error</string>
+
+    <!--Register Screen-->
+    <string name="create_account">Create Account</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="passwords_dont_match">Passwords don\'t match</string>
+    <string name="complete_all_fields">Please complete all fields</string>
+    <string name="register">Register</string>
+    <string name="already_account">You already have an account? Log in</string>
+
+    <!--Home Screen-->
+    <string name="email_not_available">Email not available</string>
+    <string name="welcome">Welcome, %1$s</string>
+    <string name="technologies_used">Technologies Used</string>
+    <string name="jetpack_compose">Jetpack Compose</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="mvvm">MVVM</string>
+    <string name="hilt">Hilt</string>
+    <string name="firebase">Firebase</string>
+    <string name="room">Room</string>
+    <string name="logout">Log Out</string>
+    <string name="you_want_to_logout">Are you sure you want to log out?</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="default_web_client_id">153141515971-o01cbj77vhi3nig9nto1663u8c73ongl.apps.googleusercontent.com</string>
+</resources>
